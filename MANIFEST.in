@@ -1,0 +1,3 @@
+exclude TEMPLATE_GUIDE.md
+exclude CLAUDE.md
+exclude CLAUDE.local.md

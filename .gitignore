@@ -38,3 +38,8 @@ Thumbs.db
 # Personal data
 *.db
 *.sqlite
+
+# Internal working document. Never commit.
+TEMPLATE_GUIDE.md
+# Local-only instruction files
+CLAUDE.local.md
