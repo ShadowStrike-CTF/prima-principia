@@ -7,11 +7,12 @@ name = "prima-principia"
 version = "1.0.0"
 description = "Prerequisite-aware university course schedule generator. Development in progress."
 readme = "README.md"
-license = { text = "MIT" }
+license = { text = "Proprietary" }
 requires-python = ">=3.11"
+authors = [{ name = "ShadowStrike", email = "r@strategos.au" }]
 classifiers = [
     "Development Status :: 1 - Planning",
-    "License :: OSI Approved :: MIT License",
+    "License :: Other/Proprietary License",
     "Programming Language :: Python :: 3.11",
     "Programming Language :: Python :: 3.12",
     "Programming Language :: Python :: 3.13",
