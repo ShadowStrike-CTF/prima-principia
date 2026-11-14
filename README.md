@@ -8,39 +8,6 @@ Work out the fastest valid path through your degree — given which units you wa
 
 ---
 
-## What it does
 
-- Takes your target electives and start trimester as input
-- Resolves the full prerequisite chain automatically
-- Schedules units trimester-by-trimester, respecting offering constraints (T2-only, T3-only, etc.)
-- Flags units offered only in specific years so you don't miss a narrow window
-- Warns when prerequisite data is unverified
-
-## Current support
-
-- Deakin JD (M729) — 2026 and 2027 handbooks
-
-## Planned
-
-- Multi-university support (UTS JD, UNSW JD, UNE LLB)
-- Semester structure (not just trimesters)
-- iOS / Android (React Native + Expo)
-- User accounts — track completed units, update schedule live
-
----
-
-## Install
-
-```
-pip install prima-principia
-```
-
-> Stub release only. Full implementation coming — star the repo to follow progress.
-
----
-
-## Licence
-
-MIT — see [LICENSE](LICENSE)
-
-© 2026 ShadowStrike. Licensed under the MIT Licence.
+© 2026 ShadowStrike. All rights reserved.
+Aut Viam Inveniam Aut Faciam
